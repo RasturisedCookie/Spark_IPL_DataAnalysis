@@ -1,6 +1,6 @@
 # IPL Data Analysis with Apache Spark & Databricks
 
-Analyze Indian Premier League (IPL) cricket data at scale using Apache Spark and Databricks. This project demonstrates how to ingest, clean, transform, analyze, and visualize IPL datasets using PySpark in a Databricks notebook environment[1][2][4][5][7].
+Analyze Indian Premier League (IPL) cricket data at scale using Apache Spark and Databricks. This project demonstrates how to ingest, clean, transform, analyze, and visualize IPL datasets using PySpark in a Databricks notebook environment.
 
 ---
 
@@ -87,9 +87,9 @@ Analyze Indian Premier League (IPL) cricket data at scale using Apache Spark and
 
 ## **References & Credits**
 
-- IPL dataset: [data.world/raghu543/ipl-data-till-2017][7]
+- IPL dataset: [data.world/raghu543/ipl-data-till-2017]
 - Apache Spark, Databricks documentation
-- Inspired by open-source IPL Spark analysis projects[2][4][5][7]
+- Inspired by open-source IPL Spark analysis projects.
 
 ---
 
